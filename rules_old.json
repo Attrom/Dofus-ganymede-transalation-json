@@ -1,0 +1,3482 @@
+{
+  "sync": {
+    "02. names": {
+      "Acceptez la mission": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Accept the mission",
+        "runtype": "Manual"
+      },
+      "Agent Kohmer Sial": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Agent Sayles",
+        "runtype": "Manual"
+      },
+      "Agent Sart": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Agent Rayles",
+        "runtype": "Manual"
+      },
+      "Albert Paisse": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Herr Peece",
+        "runtype": "Manual"
+      },
+      "Atelier d'Alchimiste": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Alchemist workshop",
+        "runtype": "Manual"
+      },
+      "Atelier d'emballage de cadeaux": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Gift Wrapping Station",
+        "runtype": "Manual"
+      },
+      "Atelier des bricoleurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Handyman workshop",
+        "runtype": "Manual"
+      },
+      "Atelier des chasseurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Hunter's workshop",
+        "runtype": "Manual"
+      },
+      "Atelier des cordonniers": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Shoemakers workshop",
+        "runtype": "Manual"
+      },
+      "Atelier des forgemages": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Smithmagi workshop",
+        "runtype": "Manual"
+      },
+      "Atelier des mineurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Miners workshop",
+        "runtype": "Manual"
+      },
+      "Atelier des pêcheurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Fishermans workshop",
+        "runtype": "Manual"
+      },
+      "Atelier des sculpteurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Artificer workshop",
+        "runtype": "Manual"
+      },
+      "Berceau d'Alma": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Alma's Cradle",
+        "runtype": "Manual"
+      },
+      "Bord de la forêt maléfique": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Edge of the Evil Forest",
+        "runtype": "Manual"
+      },
+      "Cité d'Astrub": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Astrub City",
+        "runtype": "Manual"
+      },
+      "Clothurde": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Urdnona",
+        "runtype": "Manual"
+      },
+      "Dimensions Divines": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Divine Dimensions",
+        "runtype": "Manual"
+      },
+      "Donner les matériaux pour la brosse": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Hand over the resources to make the brush",
+        "runtype": "Manual"
+      },
+      "Enutrosor": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enurado",
+        "runtype": "Manual"
+      },
+      "Forêt des pins perdus": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Lonesome Pine Trails",
+        "runtype": "Manual"
+      },
+      "Forêt pétrifiée": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Petrified Forest",
+        "runtype": "Manual"
+      },
+      "Hôtel de Ville": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "City Hall",
+        "runtype": "Manual"
+      },
+      "Hôtel de ville": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Town Hall",
+        "runtype": "Manual"
+      },
+      "Ile de Frigost": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Frigost Island",
+        "runtype": "Manual"
+      },
+      "Judas Sticau": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Jamie Coggut",
+        "runtype": "Manual"
+      },
+      "Justin Dwa": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Juss Tafinger",
+        "runtype": "Manual"
+      },
+      "Karte": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Kard",
+        "runtype": "Manual"
+      },
+      "Krosmoglob du Professeur Maximilio": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Professor Maximilio's Krosmoglob",
+        "runtype": "Manual"
+      },
+      "La Bourgade": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Figost Village",
+        "runtype": "Manual"
+      },
+      "Lac gelé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Frozen Lake",
+        "runtype": "Manual"
+      },
+      "Major Qiu": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Gizmond Quelyn",
+        "runtype": "Manual"
+      },
+      "Montagne des Craqueleurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Crackler Mountain",
+        "runtype": "Manual"
+      },
+      "Médecin de Frigost": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Frigost's Doctor",
+        "runtype": "Manual"
+      },
+      "Mériana": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Meriana",
+        "runtype": "Manual"
+      },
+      "Ordralfabétist": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Al Fabeticorder",
+        "runtype": "Manual"
+      },
+      "Phozami Mature": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Mature Perfidhius",
+        "runtype": "Manual"
+      },
+      "Professeur Maximilio": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Professor Maximilio",
+        "runtype": "Manual"
+      },
+      "Quai de la voie du temple": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Temple Way Quay",
+        "runtype": "Manual"
+      },
+      "Refuge des cent détours": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Sanctuary of a Hundred Detours",
+        "runtype": "Manual"
+      },
+      "Rol Sterding": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Dor Lingster",
+        "runtype": "Manual"
+      },
+      "Salle du Dofus": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Dofus Room",
+        "runtype": "Manual"
+      },
+      "Tour des Voyageur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Voyagers Tower",
+        "runtype": "Manual"
+      },
+      "Zaap Champs de Cania": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Cania Fields Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap Lac de Cania": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Cania Lake Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap Lac de cania": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Cania Lake Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap Port de Madrestam": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Madrestam Harbor Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap Village de Pandala": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Pandala Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap Village des Eleveurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Breeders Village Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap de La Bourgade": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Frigost Village Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap des Eleveurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Breeders Village Zaap",
+        "runtype": "Manual"
+      },
+      "Zaap des Routes Rocailleuses": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Rocky Roads Zaap",
+        "runtype": "Manual"
+      },
+      "ile du Minotoror": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Minotoror Island",
+        "runtype": "Manual"
+      },
+      "larmes d'Ouronigride": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Tears of Ouronigride",
+        "runtype": "Manual"
+      }
+    },
+    "04. exact expressions": {
+      "Ce guide est désormais terminé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "This guide is now complete",
+        "runtype": "Manual"
+      },
+      "Ce guide est terminé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "This guide ends here",
+        "runtype": "Manual"
+      },
+      "Ce guide vise à vous faire réaliser le succès": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "The guide will help you complete the achievement",
+        "runtype": "Manual"
+      },
+      "Compter sur la chance uniquement": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Relying only on luck",
+        "runtype": "Manual"
+      },
+      "Il est conseillé d'être environ": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "It is advisable to be around",
+        "runtype": "Manual"
+      },
+      "Mettez vous juste en face": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Stand right in front",
+        "runtype": "Manual"
+      },
+      "Mettez vous juste en face de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Stand right in front of",
+        "runtype": "Manual"
+      },
+      "Montez les escaliers": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go up the stairs",
+        "runtype": "Manual"
+      },
+      "Ne lancez pas le fight contre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Don't start the fight against",
+        "runtype": "Manual"
+      },
+      "Niveau minimum conseillé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Minimum level recommended",
+        "runtype": "Manual"
+      },
+      "Relancez la conversation avec le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk again to",
+        "runtype": "Manual"
+      },
+      "Si vous souhaitez poursuivre en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "If you wish to continue in",
+        "runtype": "Manual"
+      },
+      "Voici la liste des ressources à acquérir pour ce guide": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "This is the list of resources needed for this guide",
+        "runtype": "Manual"
+      },
+      "Voici la liste des ressources à prévoir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Here is the list of resources that you will need",
+        "runtype": "Manual"
+      },
+      "Vous obtenez alors le succès": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then you obtain the achievement",
+        "runtype": "Manual"
+      },
+      "bloque une étape plus tard": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "blocks a step later",
+        "runtype": "Manual"
+      },
+      "chaque ligne de dégât subie": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "each line of damage suffered",
+        "runtype": "Manual"
+      },
+      "choisissez l'option qui vous plaît": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "choose the option you like",
+        "runtype": "Manual"
+      },
+      "combat facile réalisable en groupe": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "easy group fight",
+        "runtype": "Manual"
+      },
+      "combat facile réalisable seul": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "easy solo fight",
+        "runtype": "Manual"
+      },
+      "dans votre inventaire de quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "from your quest inventory",
+        "runtype": "Manual"
+      },
+      "le trousseau de clef ne fonctionne pas dans les": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the bunch of keys doesn't work in the ",
+        "runtype": "Manual"
+      },
+      "pour être certain de ne pas lancer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to make sure you don't start",
+        "runtype": "Manual"
+      },
+      "présent dans votre inventaire de quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "present in your quest inventory",
+        "runtype": "Manual"
+      },
+      "prévoyez des aventuriers supplémentaires": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "plan on bringing extra adventurers",
+        "runtype": "Manual"
+      },
+      "réduisent les dégâts subits des monstres à l'intérieur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "reduce damage taken by the mobs inside",
+        "runtype": "Manual"
+      },
+      "s'est lancé après avoir parlé à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "starts after talking to",
+        "runtype": "Manual"
+      },
+      "si vous avec déjà vaincu le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you have already defeated the",
+        "runtype": "Manual"
+      },
+      "si vous ne l'avez pas fais plus tôt": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you haven't done already",
+        "runtype": "Manual"
+      },
+      "vous pouvez désormais continuer sur the quest du": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "now you can continue you quest for",
+        "runtype": "Manual"
+      }
+    },
+    "05. similar expressions": {
+      "Allez à l'une des positions suivantes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go to one of the following positions",
+        "runtype": "Manual"
+      },
+      "Après avoir rendu la dernière": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "After returning the last one",
+        "runtype": "Manual"
+      },
+      "Il est impératif que vous ne": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "You must not",
+        "runtype": "Manual"
+      },
+      "Ne lui reparlez pas": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Don't talk to him again",
+        "runtype": "Manual"
+      },
+      "allez à l'une des positions suivantes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go to one of the following positions",
+        "runtype": "Manual"
+      },
+      "avant la fin du combat": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "before the end of the fight",
+        "runtype": "Manual"
+      },
+      "faites le nombre de combat nécessaire pour": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "do the number of fights needed to",
+        "runtype": "Manual"
+      },
+      "lancez un groupe où il y a": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "look for a fight with",
+        "runtype": "Manual"
+      },
+      "pour qu'elle vous suive": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "so she follows you",
+        "runtype": "Manual"
+      },
+      "qu'elle ne soit pas là": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "that she is not there",
+        "runtype": "Manual"
+      },
+      "qu'il n'est pas là": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "that he is not there",
+        "runtype": "Manual"
+      },
+      "si vous ne souhaitez pas la faire": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you don't want to do it",
+        "runtype": "Manual"
+      }
+    },
+    "06. expressions": {
+      "Acceptez la tâche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Accept the task",
+        "runtype": "Manual"
+      },
+      "Ce donjon consiste en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "This dungeon consists of",
+        "runtype": "Manual"
+      },
+      "Déroulement du combat": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "How the fight works",
+        "runtype": "Manual"
+      },
+      "Entrez dans la galerie": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enter the gallery",
+        "runtype": "Manual"
+      },
+      "Entrez dans la mine": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enter the mine",
+        "runtype": "Manual"
+      },
+      "Entrez dans le tunnel": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enter the tunnel",
+        "runtype": "Manual"
+      },
+      "Guide rédigé par": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Guide written by",
+        "runtype": "Manual"
+      },
+      "Il est possible de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "It is possible to",
+        "runtype": "Manual"
+      },
+      "Le glyphes bleu": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "The blue glyphs",
+        "runtype": "Manual"
+      },
+      "Le glyphes vert": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "The green glyphs",
+        "runtype": "Manual"
+      },
+      "Pour le combat suivant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "For the following fight",
+        "runtype": "Manual"
+      },
+      "Prenez les escaliers": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Take the stairs",
+        "runtype": "Manual"
+      },
+      "Sortez de la galerie": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Exit the gallery",
+        "runtype": "Manual"
+      },
+      "Utilisez ensuite le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then use the",
+        "runtype": "Manual"
+      },
+      "Vous devez maintenant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Now you have to",
+        "runtype": "Manual"
+      },
+      "Vous débloquez alors": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "You have unlocked",
+        "runtype": "Manual"
+      },
+      "afin de terminer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "in order to finish",
+        "runtype": "Manual"
+      },
+      "au fond de la pièce": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "at the back of the room",
+        "runtype": "Manual"
+      },
+      "augmentent les dégâts subis": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "increase the damage suffered",
+        "runtype": "Manual"
+      },
+      "avoir déplacé un monstre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "moving a monster",
+        "runtype": "Manual"
+      },
+      "caché derrière un": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "hidden behind a",
+        "runtype": "Manual"
+      },
+      "choisissez la réponse": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "choose the answer",
+        "runtype": "Manual"
+      },
+      "combat difficile réalisable en groupe": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "difficult group fight",
+        "runtype": "Manual"
+      },
+      "combat réalisable en groupe": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "group fight",
+        "runtype": "Manual"
+      },
+      "de votre choix": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "of your choice",
+        "runtype": "Manual"
+      },
+      "elle vous remet la": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "she gives you the",
+        "runtype": "Manual"
+      },
+      "en réalisant les autres": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "by doing the other",
+        "runtype": "Manual"
+      },
+      "et parlez lui": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "and talk to him",
+        "runtype": "Manual"
+      },
+      "go à l'entrée du": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go to the entrance of",
+        "runtype": "Manual"
+      },
+      "juste en face": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "right in front",
+        "runtype": "Manual"
+      },
+      "la chasse au trésor": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "treasure hunt",
+        "runtype": "Manual"
+      },
+      "la mine à droite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "mine to the right",
+        "runtype": "Manual"
+      },
+      "la mine à gauche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "mine to the left",
+        "runtype": "Manual"
+      },
+      "lui montrer la": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "show him the",
+        "runtype": "Manual"
+      },
+      "ne doit pas mourir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "must not die",
+        "runtype": "Manual"
+      },
+      "ne sortez pas tout de suite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "don't go out yet",
+        "runtype": "Manual"
+      },
+      "nécessaire pour l'acquisition du": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "necessary to obtain the",
+        "runtype": "Manual"
+      },
+      "pour débuter la quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to begin the quest",
+        "runtype": "Manual"
+      },
+      "pour lui demander": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to ask him",
+        "runtype": "Manual"
+      },
+      "pour terminer la quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to finish the quest",
+        "runtype": "Manual"
+      },
+      "pour trouver la position": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to find the position",
+        "runtype": "Manual"
+      },
+      "pour vous rendre dans la": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to get you in the",
+        "runtype": "Manual"
+      },
+      "prendre le bateau vers": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "take the boat to",
+        "runtype": "Manual"
+      },
+      "qui apparaissent après": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which appears after",
+        "runtype": "Manual"
+      },
+      "recruter quelques aventuriers supplémentaires": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "recruit some other adventurers",
+        "runtype": "Manual"
+      },
+      "si vous restez à intérieur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you stay inside",
+        "runtype": "Manual"
+      },
+      "si vous terminez dessus": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you finish on it",
+        "runtype": "Manual"
+      },
+      "vous débutez la quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you begin the quest",
+        "runtype": "Manual"
+      },
+      "vous pouvez maintenant continuer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "now you can continue",
+        "runtype": "Manual"
+      },
+      "à côté de rochers": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "next to rock",
+        "runtype": "Manual"
+      },
+      "à côté des chariots": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "next to carts",
+        "runtype": "Manual"
+      },
+      "à la droite des autres": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to the right of the others",
+        "runtype": "Manual"
+      }
+    },
+    "08. short expression": {
+      "Allez en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go to",
+        "runtype": "Manual"
+      },
+      "Avoir terminé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Having finished",
+        "runtype": "Manual"
+      },
+      "Cliquer à nouveau": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Click again",
+        "runtype": "Manual"
+      },
+      "Cliquez sur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Click",
+        "runtype": "Manual"
+      },
+      "Dirigez vous": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go to",
+        "runtype": "Manual"
+      },
+      "Débutez une": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Start a",
+        "runtype": "Manual"
+      },
+      "Enter dans la": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enter the",
+        "runtype": "Manual"
+      },
+      "Equipez le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Equip the",
+        "runtype": "Manual"
+      },
+      "Il consiste de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "It consists of",
+        "runtype": "Manual"
+      },
+      "Les glyphes rouges": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "The red glyphs",
+        "runtype": "Manual"
+      },
+      "Ne sortez pas": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Don't leave",
+        "runtype": "Manual"
+      },
+      "Parlez au": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk to",
+        "runtype": "Manual"
+      },
+      "Parlez ensuite au": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then talk to",
+        "runtype": "Manual"
+      },
+      "Parlez ensuite à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then talk to",
+        "runtype": "Manual"
+      },
+      "Parlez à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk to",
+        "runtype": "Manual"
+      },
+      "Partez en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go to",
+        "runtype": "Manual"
+      },
+      "Téléportez vous": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Teleport",
+        "runtype": "Manual"
+      },
+      "Une fois": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Once",
+        "runtype": "Manual"
+      },
+      "Utilisez le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Use the",
+        "runtype": "Manual"
+      },
+      "Vous obtenez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "You obtain",
+        "runtype": "Manual"
+      },
+      "allez en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "go to",
+        "runtype": "Manual"
+      },
+      "cachée derrière": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "hidden behind",
+        "runtype": "Manual"
+      },
+      "chasse au portail": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "portal hunt",
+        "runtype": "Manual"
+      },
+      "cliquant sur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "click",
+        "runtype": "Manual"
+      },
+      "cliquez sur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "click",
+        "runtype": "Manual"
+      },
+      "combat remporté": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "fight is won",
+        "runtype": "Manual"
+      },
+      "de la guilde": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "from the guild",
+        "runtype": "Manual"
+      },
+      "de le déplacer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to move it",
+        "runtype": "Manual"
+      },
+      "dernière salle": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "last room",
+        "runtype": "Manual"
+      },
+      "dites-lui que": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "tell him that",
+        "runtype": "Manual"
+      },
+      "donnez-lui": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "give him",
+        "runtype": "Manual"
+      },
+      "du dungeon": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the dungeon",
+        "runtype": "Manual"
+      },
+      "et enfin à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "and finally to",
+        "runtype": "Manual"
+      },
+      "et finir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "and finish",
+        "runtype": "Manual"
+      },
+      "go au": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go to",
+        "runtype": "Manual"
+      },
+      "guide dimension": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "dimension guide",
+        "runtype": "Manual"
+      },
+      "guides dimension": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "dimension guides",
+        "runtype": "Manual"
+      },
+      "la quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the quest",
+        "runtype": "Manual"
+      },
+      "le succès": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the achievement",
+        "runtype": "Manual"
+      },
+      "parler à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "talk to",
+        "runtype": "Manual"
+      },
+      "parlez au": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "talk to",
+        "runtype": "Manual"
+      },
+      "parlez à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "talk to",
+        "runtype": "Manual"
+      },
+      "pour accomplir le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to accomplish the",
+        "runtype": "Manual"
+      },
+      "pour lancer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to start",
+        "runtype": "Manual"
+      },
+      "pour lancer un": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to start a",
+        "runtype": "Manual"
+      },
+      "pour prendre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to obtain",
+        "runtype": "Manual"
+      },
+      "pour terminer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to finish",
+        "runtype": "Manual"
+      },
+      "puis choisissez de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "then choose to",
+        "runtype": "Manual"
+      },
+      "rejoignez la": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "enter the",
+        "runtype": "Manual"
+      },
+      "sac plein de pièces": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "bag full of coins",
+        "runtype": "Manual"
+      },
+      "tas de kamas": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "pile of kamas",
+        "runtype": "Manual"
+      },
+      "tas de pièces": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "pile of coins",
+        "runtype": "Manual"
+      },
+      "tous les monsters": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "all the monsters",
+        "runtype": "Manual"
+      },
+      "tunnel à droite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "tunnel to the right",
+        "runtype": "Manual"
+      },
+      "téléporteur de droite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "right teleporter",
+        "runtype": "Manual"
+      },
+      "vagues de monstre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "waves of mobs",
+        "runtype": "Manual"
+      },
+      "vous donnent": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "give you",
+        "runtype": "Manual"
+      },
+      "vous obtenez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you obtain",
+        "runtype": "Manual"
+      }
+    },
+    "09. shorter": {
+      "Entrez dans": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enter the",
+        "runtype": "Manual"
+      },
+      "dans laquelle": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "in which",
+        "runtype": "Manual"
+      },
+      "de chaque": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "of each",
+        "runtype": "Manual"
+      },
+      "dégât subie": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "damage suffered",
+        "runtype": "Manual"
+      },
+      "ensuite allez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "then go",
+        "runtype": "Manual"
+      },
+      "ensuite choisissez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "then choose",
+        "runtype": "Manual"
+      },
+      "est optionnel": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "is optional",
+        "runtype": "Manual"
+      },
+      "mettre à jour": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "update",
+        "runtype": "Manual"
+      },
+      "parce que": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "because",
+        "runtype": "Manual"
+      },
+      "pour continuer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to continue",
+        "runtype": "Manual"
+      },
+      "pour taper": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to hit",
+        "runtype": "Manual"
+      },
+      "pour éviter": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to avoid",
+        "runtype": "Manual"
+      },
+      "proche du": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "close to",
+        "runtype": "Manual"
+      },
+      "ses dégâts": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "his damage",
+        "runtype": "Manual"
+      },
+      "sous les": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "under the",
+        "runtype": "Manual"
+      },
+      "tâches suivantes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "following tasks",
+        "runtype": "Manual"
+      },
+      "votre équipe": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "your team",
+        "runtype": "Manual"
+      },
+      "vous devrez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you have to",
+        "runtype": "Manual"
+      },
+      "vous pouvez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you can",
+        "runtype": "Manual"
+      },
+      "vous suive": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "follow you",
+        "runtype": "Manual"
+      },
+      "à plus de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "at more than",
+        "runtype": "Manual"
+      }
+    },
+    "10. one word consistent": {
+      "Allez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go",
+        "runtype": "Manual"
+      },
+      "Astuce": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Trick",
+        "runtype": "Manual"
+      },
+      "Ensuite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then",
+        "runtype": "Manual"
+      },
+      "Ensuite,": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then,",
+        "runtype": "Manual"
+      },
+      "Entrez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enter",
+        "runtype": "Manual"
+      },
+      "Finalement,": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Finally,",
+        "runtype": "Manual"
+      },
+      "Maintenant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Now",
+        "runtype": "Manual"
+      },
+      "PO\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "Range",
+        "runtype": "Manual"
+      },
+      "Partez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Leave",
+        "runtype": "Manual"
+      },
+      "Prérequis": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Prerequisites",
+        "runtype": "Manual"
+      },
+      "Reparlez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk again",
+        "runtype": "Manual"
+      },
+      "Ressortez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Come out",
+        "runtype": "Manual"
+      },
+      "Retournez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Return",
+        "runtype": "Manual"
+      },
+      "Sinon": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "otherwise",
+        "runtype": "Manual"
+      },
+      "Soignez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Heal",
+        "runtype": "Manual"
+      },
+      "\\bPA\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "AP",
+        "runtype": "Manual"
+      },
+      "\\ballez\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "go",
+        "runtype": "Manual"
+      },
+      "\\bcinq\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "five",
+        "runtype": "Manual"
+      },
+      "\\bglace\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "ice",
+        "runtype": "Manual"
+      },
+      "\\bphare\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "lighthouse",
+        "runtype": "Manual"
+      },
+      "\\btemps\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "time",
+        "runtype": "Manual"
+      },
+      "\\btours\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "turns",
+        "runtype": "Manual"
+      },
+      "\\btraineau\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "sled",
+        "runtype": "Manual"
+      },
+      "après": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "after",
+        "runtype": "Manual"
+      },
+      "attaquez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "attack",
+        "runtype": "Manual"
+      },
+      "bibliothèque": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "library",
+        "runtype": "Manual"
+      },
+      "cliquez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "click",
+        "runtype": "Manual"
+      },
+      "combat": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "fight",
+        "runtype": "Manual"
+      },
+      "descendu": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "descended",
+        "runtype": "Manual"
+      },
+      "diligence": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "stagecoach",
+        "runtype": "Manual"
+      },
+      "dommages de poussée": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "pushback damage",
+        "runtype": "Manual"
+      },
+      "donjon": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "dungeon",
+        "runtype": "Manual"
+      },
+      "en [": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "at [",
+        "runtype": "Manual"
+      },
+      "en bas": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "down",
+        "runtype": "Manual"
+      },
+      "en haut": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "up",
+        "runtype": "Manual"
+      },
+      "fabrique": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "factory",
+        "runtype": "Manual"
+      },
+      "jusqu'à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "until",
+        "runtype": "Manual"
+      },
+      "la bonne": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the good",
+        "runtype": "Manual"
+      },
+      "la première": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the first",
+        "runtype": "Manual"
+      },
+      "la sacoche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the bag",
+        "runtype": "Manual"
+      },
+      "monstres": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "monsters",
+        "runtype": "Manual"
+      },
+      "niveau": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "level",
+        "runtype": "Manual"
+      },
+      "obtenable": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "obtainable",
+        "runtype": "Manual"
+      },
+      "obtenir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "obtain",
+        "runtype": "Manual"
+      },
+      "partez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "leave",
+        "runtype": "Manual"
+      },
+      "personnages": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "characters",
+        "runtype": "Manual"
+      },
+      "portail": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "portal",
+        "runtype": "Manual"
+      },
+      "prendre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "take",
+        "runtype": "Manual"
+      },
+      "puis": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "then",
+        "runtype": "Manual"
+      },
+      "quêtes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "quests",
+        "runtype": "Manual"
+      },
+      "ramener": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "bring back",
+        "runtype": "Manual"
+      },
+      "recommencez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "start again",
+        "runtype": "Manual"
+      },
+      "remontez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go back up",
+        "runtype": "Manual"
+      },
+      "ressources": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "resouruce",
+        "runtype": "Manual"
+      },
+      "sacoche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "bag",
+        "runtype": "Manual"
+      },
+      "selon": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "according to",
+        "runtype": "Manual"
+      },
+      "sortez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go out",
+        "runtype": "Manual"
+      },
+      "utilisez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "use",
+        "runtype": "Manual"
+      },
+      "vendiez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "sell",
+        "runtype": "Manual"
+      },
+      "vulnérable": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "vulnerable",
+        "runtype": "Manual"
+      },
+      "à droite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "right",
+        "runtype": "Manual"
+      },
+      "à gauche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "left",
+        "runtype": "Manual"
+      }
+    },
+    "20. small words": {
+      "\\b(et)\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "and",
+        "runtype": "Manual"
+      },
+      "\\bOui\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "Yes",
+        "runtype": "Manual"
+      },
+      "\\bSi\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": true,
+        "replace": "If",
+        "runtype": "Manual"
+      },
+      "\\bcar\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "because",
+        "runtype": "Manual"
+      },
+      "\\belle\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "she",
+        "runtype": "Manual"
+      },
+      "\\bfois\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "times",
+        "runtype": "Manual"
+      },
+      "\\bou\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "or",
+        "runtype": "Manual"
+      },
+      "\\bpuis\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "then",
+        "runtype": "Manual"
+      },
+      "\\bsort\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "spell",
+        "runtype": "Manual"
+      },
+      "l'": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "",
+        "runtype": "Manual"
+      }
+    },
+    "32. expressions eng": {
+      "Avoir commencé the quest": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Having started the quest",
+        "runtype": "Manual"
+      },
+      "Ce guide vise à vous faire réaliser the achievement": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "This guide aims to complete the achievement",
+        "runtype": "Manual"
+      },
+      "Durant ce fight": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "During this fight",
+        "runtype": "Manual"
+      },
+      "En continuant de talk to": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Continue to talk to",
+        "runtype": "Manual"
+      },
+      "Once le fight terminé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Once the fight ends",
+        "runtype": "Manual"
+      },
+      "ce qui termine the quest": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which finishes the quest",
+        "runtype": "Manual"
+      },
+      "présent from your quest inventory": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "present in your quest inventory",
+        "runtype": "Manual"
+      },
+      "une nouvelle times": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "once again",
+        "runtype": "Manual"
+      }
+    },
+    "36. short eng expression": {
+      "Sortez the dungeon": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Leave the dungeon",
+        "runtype": "Manual"
+      },
+      "alignement": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "alignment",
+        "runtype": "Manual"
+      },
+      "and terminer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "and finish",
+        "runtype": "Manual"
+      },
+      "fight remporté": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "fight ends",
+        "runtype": "Manual"
+      },
+      "finishz": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "finish",
+        "runtype": "Manual"
+      },
+      "le dungeon terminé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the dungeon ends",
+        "runtype": "Manual"
+      }
+    }
+  },
+  "local": {
+    "02. names": {
+      "Crevasse Perge": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Asparah Gorge",
+        "runtype": "Manual"
+      },
+      "Groméo Montay": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Gromeo Oatmenu",
+        "runtype": "Manual"
+      },
+      "Lachandi": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Decimandi",
+        "runtype": "Manual"
+      },
+      "Village ensevelie": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Showbound Village",
+        "runtype": "Manual"
+      }
+    },
+    "06. expressions": {
+      "Avec l'aide de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "With the help of",
+        "runtype": "Manual"
+      },
+      "Ce guide couvre toutes les": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "This guide covers all the",
+        "runtype": "Manual"
+      },
+      "Il est impératif que vous": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "You must",
+        "runtype": "Manual"
+      },
+      "Maintenant on aura": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Now we have",
+        "runtype": "Manual"
+      },
+      "Parlez plutôt à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Instead talk to",
+        "runtype": "Manual"
+      },
+      "Selon votre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Based on your",
+        "runtype": "Manual"
+      },
+      "Si vous finisse": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "If you finish",
+        "runtype": "Manual"
+      },
+      "Tuez le en premier": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Kill him first",
+        "runtype": "Manual"
+      },
+      "Vérifiez que vous ayez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Check that you have",
+        "runtype": "Manual"
+      },
+      "caché par la falaise": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "hidden by the cliff",
+        "runtype": "Manual"
+      },
+      "car vous en aurez besoin pour": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "because you will need it for",
+        "runtype": "Manual"
+      },
+      "ce qui lance la quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which starts the quest",
+        "runtype": "Manual"
+      },
+      "combat faisable à plusieurs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "group fight",
+        "runtype": "Manual"
+      },
+      "de tanker vos adversaires": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "tank your enemies",
+        "runtype": "Manual"
+      },
+      "en partant à la recherche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go and search",
+        "runtype": "Manual"
+      },
+      "entre la destination et": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "between the destination and",
+        "runtype": "Manual"
+      },
+      "il est possible que vous": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "it is possible that you",
+        "runtype": "Manual"
+      },
+      "il faudra choisir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you will have to choose",
+        "runtype": "Manual"
+      },
+      "il perd alors": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "he loses",
+        "runtype": "Manual"
+      },
+      "lors du dialogue avec le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "during the dialogue with",
+        "runtype": "Manual"
+      },
+      "nous la ferons de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "we will do it",
+        "runtype": "Manual"
+      },
+      "placez-vous sur les": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "place yourself on the",
+        "runtype": "Manual"
+      },
+      "pour finir the quest": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to finish the quest",
+        "runtype": "Manual"
+      },
+      "pour lancer la quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to begin the quest",
+        "runtype": "Manual"
+      },
+      "pour être tranquille un moment": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to chill for the moment",
+        "runtype": "Manual"
+      },
+      "se lance en arrivant sur la map": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "starts when arriving on the map",
+        "runtype": "Manual"
+      },
+      "se lance à différent endroit": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "launches at different locations",
+        "runtype": "Manual"
+      },
+      "selon votre alignement": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "according to your alignement",
+        "runtype": "Manual"
+      },
+      "si vous avez accompli": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you completed",
+        "runtype": "Manual"
+      },
+      "si vous avez accès à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you have access to",
+        "runtype": "Manual"
+      },
+      "si vous avez plus de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you have more than",
+        "runtype": "Manual"
+      },
+      "si vous n'avez pas vaincu le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "if you haven't defeated the",
+        "runtype": "Manual"
+      },
+      "sinon répondez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "otherwise answer",
+        "runtype": "Manual"
+      },
+      "sinon répondez non": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "otherwise answer no",
+        "runtype": "Manual"
+      },
+      "toute les (\\d+) minutes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "every $1 minutes",
+        "runtype": "Manual"
+      },
+      "vous le trouverez aussi en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you can also find at",
+        "runtype": "Manual"
+      },
+      "vous pouvez désormais continuer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "now you can continue",
+        "runtype": "Manual"
+      },
+      "à partir du tour": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "starting from turn",
+        "runtype": "Manual"
+      },
+      "à un taux de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "at a rate of",
+        "runtype": "Manual"
+      }
+    },
+    "08. short expression": {
+      "Après avoir débloqué": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "After unlocking",
+        "runtype": "Manual"
+      },
+      "Cette quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "This quest",
+        "runtype": "Manual"
+      },
+      "Entrez dans la": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enter the",
+        "runtype": "Manual"
+      },
+      "Il est conseillé": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "It is advisable",
+        "runtype": "Manual"
+      },
+      "Il est possible": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "It is possible",
+        "runtype": "Manual"
+      },
+      "Il faudra faire": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "You will have to do",
+        "runtype": "Manual"
+      },
+      "Pour trouver des": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "To find the",
+        "runtype": "Manual"
+      },
+      "Retournez en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Return to",
+        "runtype": "Manual"
+      },
+      "Vous devez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "You must",
+        "runtype": "Manual"
+      },
+      "allez directement": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go directly",
+        "runtype": "Manual"
+      },
+      "allez drop": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go drop",
+        "runtype": "Manual"
+      },
+      "caché derrière": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "hidden behind",
+        "runtype": "Manual"
+      },
+      "capables de faire": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "capable of doing",
+        "runtype": "Manual"
+      },
+      "ce qui lance un": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which starts a",
+        "runtype": "Manual"
+      },
+      "commencé the quest": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "begin the quest",
+        "runtype": "Manual"
+      },
+      "d'autres cristau": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "other crystals",
+        "runtype": "Manual"
+      },
+      "descendez dans": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "go down the",
+        "runtype": "Manual"
+      },
+      "do pou un allié": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "pushback an ally",
+        "runtype": "Manual"
+      },
+      "en attendant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "while waiting",
+        "runtype": "Manual"
+      },
+      "enfin allez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": ", finaly go",
+        "runtype": "Manual"
+      },
+      "il se soigne": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "it heals itself",
+        "runtype": "Manual"
+      },
+      "la dernière": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the last",
+        "runtype": "Manual"
+      },
+      "la mort de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the death of",
+        "runtype": "Manual"
+      },
+      "la première quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the first quest",
+        "runtype": "Manual"
+      },
+      "lance les quête": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "begins the quest",
+        "runtype": "Manual"
+      },
+      "les avis de recherche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "wanted posters",
+        "runtype": "Manual"
+      },
+      "mais très pratique": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "but very practical",
+        "runtype": "Manual"
+      },
+      "n'est pas là": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "is not here",
+        "runtype": "Manual"
+      },
+      "ne continuez pas": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "don't continue",
+        "runtype": "Manual"
+      },
+      "plante blanche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "white plant",
+        "runtype": "Manual"
+      },
+      "plus facilement": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "easily",
+        "runtype": "Manual"
+      },
+      "pour aller à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to go to",
+        "runtype": "Manual"
+      },
+      "pour faire chaque": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to do each",
+        "runtype": "Manual"
+      },
+      "pour finir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to finish",
+        "runtype": "Manual"
+      },
+      "pour l'obtention du": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "for obtaining the",
+        "runtype": "Manual"
+      },
+      "pour le délock": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to unlock",
+        "runtype": "Manual"
+      },
+      "pour mettre à jour": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to update",
+        "runtype": "Manual"
+      },
+      "pour récupérer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to obtain",
+        "runtype": "Manual"
+      },
+      "puis montez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "then go up",
+        "runtype": "Manual"
+      },
+      "quand il est": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "when it is",
+        "runtype": "Manual"
+      },
+      "qui doit être": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "who must be",
+        "runtype": "Manual"
+      },
+      "qui est optionnelle": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which is optional",
+        "runtype": "Manual"
+      },
+      "qui vous permet": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which allows you",
+        "runtype": "Manual"
+      },
+      "se lance directement": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "starts directly",
+        "runtype": "Manual"
+      },
+      "selon vos caractéristiques": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "based on your characteristics",
+        "runtype": "Manual"
+      },
+      "ses alliés": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "his allies",
+        "runtype": "Manual"
+      },
+      "sont récoltables": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "are harvestable",
+        "runtype": "Manual"
+      },
+      "succès monstre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "monster achievements",
+        "runtype": "Manual"
+      },
+      "taper les mobs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "hit the mobs",
+        "runtype": "Manual"
+      },
+      "tenter de ret": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "attempt to reduce",
+        "runtype": "Manual"
+      },
+      "tranche horaire": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "time slot",
+        "runtype": "Manual"
+      },
+      "un style de jeu": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "a play style",
+        "runtype": "Manual"
+      },
+      "vaincu": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "defeated",
+        "runtype": "Manual"
+      },
+      "vous avez choisi": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you have chosen",
+        "runtype": "Manual"
+      },
+      "vous pouvez faire": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you can do",
+        "runtype": "Manual"
+      },
+      "vous pouvez prendre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you can take",
+        "runtype": "Manual"
+      },
+      "vous pouvez utiliser": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you can use",
+        "runtype": "Manual"
+      },
+      "vous venez de finir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you arrived at the end",
+        "runtype": "Manual"
+      }
+    },
+    "10. one word consistent": {
+      "Après": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "After",
+        "runtype": "Manual"
+      },
+      "Dorénavant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Form now on",
+        "runtype": "Manual"
+      },
+      "Prévoyez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Prepare",
+        "runtype": "Manual"
+      },
+      "Sortez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go out",
+        "runtype": "Manual"
+      },
+      "\\bapparaît\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "appear",
+        "runtype": "Manual"
+      },
+      "\\bcoffre\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "chest",
+        "runtype": "Manual"
+      },
+      "\\bgrille\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "grate",
+        "runtype": "Manual"
+      },
+      "\\bpanneau\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "sign",
+        "runtype": "Manual"
+      },
+      "\\bpousser\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "push",
+        "runtype": "Manual"
+      },
+      "\\bretournez\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "return",
+        "runtype": "Manual"
+      },
+      "\\bsalle\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "room",
+        "runtype": "Manual"
+      },
+      "\\bsalles\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "rooms",
+        "runtype": "Manual"
+      },
+      "achetez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "buy",
+        "runtype": "Manual"
+      },
+      "aller-retour": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "one word",
+        "runtype": "Manual"
+      },
+      "dégâts": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "damage",
+        "runtype": "Manual"
+      },
+      "frappant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "hit",
+        "runtype": "Manual"
+      },
+      "réapparaisse": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "reappears",
+        "runtype": "Manual"
+      }
+    }
+  }
+}
