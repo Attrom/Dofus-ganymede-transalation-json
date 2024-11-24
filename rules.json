@@ -102,7 +102,7 @@
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
-        "replace": "Artificer workshop",
+        "replace": "Carvers workshop",
         "runtype": "Manual"
       },
       "Berceau d'Alma": {
@@ -475,6 +475,14 @@
         "replace": "It is advisable to be around",
         "runtype": "Manual"
       },
+      "La réalisation des quests de this dimension n'est pas utile pour le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Completing quests in this dimension is not useful for obtaining the",
+        "runtype": "Manual"
+      },
       "Mettez vous juste en face": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -529,6 +537,14 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "If you wish to continue in",
+        "runtype": "Manual"
+      },
+      "Sur la même carte": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "On the same map",
         "runtype": "Manual"
       },
       "Voici la liste des ressources à acquérir pour ce guide": {
@@ -619,6 +635,14 @@
         "replace": "the bunch of keys doesn't work in the ",
         "runtype": "Manual"
       },
+      "n'apparait que dans ce dungeon": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "only appears in this dungeon",
+        "runtype": "Manual"
+      },
       "pour être certain de ne pas lancer": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -673,6 +697,14 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "if you haven't done already",
+        "runtype": "Manual"
+      },
+      "vise à vous faire réaliser les succès": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "aims to make you do the achievement",
         "runtype": "Manual"
       },
       "vous pouvez désormais continuer sur the quest du": {
@@ -842,7 +874,7 @@
       "Guide rédigé par": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
+        "ignoreCase": true,
         "regex": false,
         "replace": "Guide written by",
         "runtype": "Manual"
@@ -1208,15 +1240,25 @@
         "runtype": "Manual"
       }
     },
-    "08. short expression": {
-      "Allez en": {
+    "07. medium expressions": {
+      "préparez les objets suivants": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
-        "replace": "Go to",
+        "replace": "prepare the folloing objects",
         "runtype": "Manual"
       },
+      "qui ne comprend que": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which only includes",
+        "runtype": "Manual"
+      }
+    },
+    "08. short expression": {
       "Avoir terminé": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -1231,14 +1273,6 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "Click again",
-        "runtype": "Manual"
-      },
-      "Cliquez sur": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "Click",
         "runtype": "Manual"
       },
       "Dirigez vous": {
@@ -1265,14 +1299,6 @@
         "replace": "Enter the",
         "runtype": "Manual"
       },
-      "Equipez le": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "Equip the",
-        "runtype": "Manual"
-      },
       "Il consiste de": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -1297,14 +1323,6 @@
         "replace": "Don't leave",
         "runtype": "Manual"
       },
-      "Parlez au": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "Talk to",
-        "runtype": "Manual"
-      },
       "Parlez ensuite au": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -1321,22 +1339,6 @@
         "replace": "Then talk to",
         "runtype": "Manual"
       },
-      "Parlez à": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "Talk to",
-        "runtype": "Manual"
-      },
-      "Partez en": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "Go to",
-        "runtype": "Manual"
-      },
       "Téléportez vous": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -1345,36 +1347,12 @@
         "replace": "Teleport",
         "runtype": "Manual"
       },
-      "Une fois": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "Once",
-        "runtype": "Manual"
-      },
-      "Utilisez le": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "Use the",
-        "runtype": "Manual"
-      },
       "Vous obtenez": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
         "replace": "You obtain",
-        "runtype": "Manual"
-      },
-      "allez en": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "go to",
         "runtype": "Manual"
       },
       "cachée derrière": {
@@ -1394,14 +1372,6 @@
         "runtype": "Manual"
       },
       "cliquant sur": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": false,
-        "replace": "click",
-        "runtype": "Manual"
-      },
-      "cliquez sur": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
@@ -1674,13 +1644,47 @@
         "runtype": "Manual"
       }
     },
+    "08.2 short expression": {
+      "Il consiste à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "It consists of",
+        "runtype": "Manual"
+      }
+    },
     "09. shorter": {
+      "Allez en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go to",
+        "runtype": "Manual"
+      },
+      "CHAQUE SALLE": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "each room",
+        "runtype": "Manual"
+      },
       "Ce guide": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
         "replace": "This guide",
+        "runtype": "Manual"
+      },
+      "Cliquez sur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Click",
         "runtype": "Manual"
       },
       "Commencez par": {
@@ -1699,12 +1703,100 @@
         "replace": "Enter the",
         "runtype": "Manual"
       },
+      "Equipez le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Equip the",
+        "runtype": "Manual"
+      },
+      "Faites le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Do the",
+        "runtype": "Manual"
+      },
       "La quête": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
         "replace": "The quest",
+        "runtype": "Manual"
+      },
+      "Parlez au": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk to",
+        "runtype": "Manual"
+      },
+      "Parlez ensuite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then talk",
+        "runtype": "Manual"
+      },
+      "Parlez maintenant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Now talk",
+        "runtype": "Manual"
+      },
+      "Parlez à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk to",
+        "runtype": "Manual"
+      },
+      "Partez en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go to",
+        "runtype": "Manual"
+      },
+      "Prenez le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Take the",
+        "runtype": "Manual"
+      },
+      "Un métier": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "A profession",
+        "runtype": "Manual"
+      },
+      "Une fois": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Once",
+        "runtype": "Manual"
+      },
+      "Utilisez le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Use the",
         "runtype": "Manual"
       },
       "Vous avez": {
@@ -1715,6 +1807,30 @@
         "replace": "You have",
         "runtype": "Manual"
       },
+      "allez en": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "go to",
+        "runtype": "Manual"
+      },
+      "au moins": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "at least",
+        "runtype": "Manual"
+      },
+      "cliquez sur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "click",
+        "runtype": "Manual"
+      },
       "dans laquelle": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -1723,12 +1839,28 @@
         "replace": "in which",
         "runtype": "Manual"
       },
+      "dans ordre": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "in order",
+        "runtype": "Manual"
+      },
       "de chaque": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
         "replace": "of each",
+        "runtype": "Manual"
+      },
+      "de gauche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to the left",
         "runtype": "Manual"
       },
       "double cliquant": {
@@ -1859,6 +1991,22 @@
         "replace": "following tasks",
         "runtype": "Manual"
       },
+      "un métier": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "a profession",
+        "runtype": "Manual"
+      },
+      "vague": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "wave",
+        "runtype": "Manual"
+      },
       "votre équipe": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -1897,6 +2045,88 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "at more than",
+        "runtype": "Manual"
+      }
+    },
+    "09.2 shorter": {
+      "Parlez a": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk to",
+        "runtype": "Manual"
+      },
+      "Parlez ensuite": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Then talk",
+        "runtype": "Manual"
+      },
+      "Parlez également à": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Talk also to",
+        "runtype": "Manual"
+      },
+      "Prenez escalier": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Take the stairs",
+        "runtype": "Manual"
+      },
+      "devant le": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "in front of",
+        "runtype": "Manual"
+      },
+      "et terminer": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "and finish",
+        "runtype": "Manual"
+      },
+      "les deux premières": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the first two",
+        "runtype": "Manual"
+      },
+      "plus tard": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "later",
+        "runtype": "Manual"
+      },
+      "tout le monde": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "everyone",
+        "runtype": "Manual"
+      },
+      "étape suivante": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "next step",
         "runtype": "Manual"
       }
     },
@@ -2390,15 +2620,25 @@
         "runtype": "Manual"
       }
     },
-    "20. small words": {
-      "\\b(et)\\b": {
+    "10.2 one word consistent": {
+      "Devant": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
-        "regex": true,
-        "replace": "and",
+        "regex": false,
+        "replace": "In front",
         "runtype": "Manual"
       },
+      "sinon": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "otherwise",
+        "runtype": "Manual"
+      }
+    },
+    "20. small words": {
       "\\bOui\\b": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -2413,6 +2653,14 @@
         "ignoreCase": false,
         "regex": true,
         "replace": "If",
+        "runtype": "Manual"
+      },
+      "\\bavec\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "with",
         "runtype": "Manual"
       },
       "\\bcar\\b": {
@@ -2439,12 +2687,28 @@
         "replace": "finally",
         "runtype": "Manual"
       },
+      "\\bet\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "and",
+        "runtype": "Manual"
+      },
       "\\bfois\\b": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": true,
         "replace": "times",
+        "runtype": "Manual"
+      },
+      "\\bmais\\b": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": true,
+        "replace": "but",
         "runtype": "Manual"
       },
       "\\bou\\b": {
@@ -2477,6 +2741,14 @@
         "ignoreCase": false,
         "regex": true,
         "replace": "spell",
+        "runtype": "Manual"
+      },
+      "cette": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "this",
         "runtype": "Manual"
       },
       "l'": {
@@ -2537,6 +2809,30 @@
         "replace": "which finishes the quest",
         "runtype": "Manual"
       },
+      "en réalisant d'autres dimension guides": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "by doing the other dimensional guides",
+        "runtype": "Manual"
+      },
+      "fight réalisable seul": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "solo fight",
+        "runtype": "Manual"
+      },
+      "fight très difficile réalisable en groupe": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "very hard group fight",
+        "runtype": "Manual"
+      },
       "il faudra vous rendre up": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -2545,12 +2841,36 @@
         "replace": "you will have to go up",
         "runtype": "Manual"
       },
+      "les resouruce suivantes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "the following resources",
+        "runtype": "Manual"
+      },
       "présent from your quest inventory": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
         "replace": "present in your quest inventory",
+        "runtype": "Manual"
+      },
+      "réalisez donc un challenge": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "do a challenge",
+        "runtype": "Manual"
+      },
+      "une dernière times": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "one last time",
         "runtype": "Manual"
       },
       "une nouvelle times": {
@@ -2595,6 +2915,14 @@
         "replace": "and finish",
         "runtype": "Manual"
       },
+      "buyes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "bought",
+        "runtype": "Manual"
+      },
       "deux times": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -2604,6 +2932,14 @@
         "runtype": "Manual"
       },
       "fight remporté": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "fight ends",
+        "runtype": "Manual"
+      },
+      "fight terminé": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
@@ -2634,6 +2970,14 @@
         "regex": false,
         "replace": "obtained the resource",
         "runtype": "Manual"
+      },
+      "resouruce": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "resources",
+        "runtype": "Manual"
       }
     },
     "alignment-sides": {
@@ -2647,7 +2991,63 @@
       }
     },
     "areas": {
-      "\\bÉther\\b": {
+      "Brâkmar": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Brakmar",
+        "runtype": "Manual"
+      },
+      "Enutrosor": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Enurado",
+        "runtype": "Manual"
+      },
+      "Havres-Sacs": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Haven Bags",
+        "runtype": "Manual"
+      },
+      "Kolizéum": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Kolossium",
+        "runtype": "Manual"
+      },
+      "Nimotopia": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Nimaltopia",
+        "runtype": "Manual"
+      },
+      "Saharach": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Ohwymi",
+        "runtype": "Manual"
+      },
+      "Xélorium": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Xelorium",
+        "runtype": "Manual"
+      },
+      "Éther": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
@@ -2657,12 +3057,124 @@
       }
     },
     "jobs": {
-      "\\bMineur\\b": {
+      "Alchimiste": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Alchemist",
+        "runtype": "Manual"
+      },
+      "Bestiologue": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Beastologist",
+        "runtype": "Manual"
+      },
+      "Bijoutier": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Jeweller",
+        "runtype": "Manual"
+      },
+      "Bricoleur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Handyman",
+        "runtype": "Manual"
+      },
+      "Bûcheron": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Lumberjack",
+        "runtype": "Manual"
+      },
+      "Chasseur": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
-        "regex": true,
-        "replace": "Miner",
+        "regex": false,
+        "replace": "Hunter",
+        "runtype": "Manual"
+      },
+      "Cordomage": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Shoemagus",
+        "runtype": "Manual"
+      },
+      "Cordonnier": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Shoemaker",
+        "runtype": "Manual"
+      },
+      "Façonneur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Artificer",
+        "runtype": "Manual"
+      },
+      "Forgeron": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Smith",
+        "runtype": "Manual"
+      },
+      "Mineur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "miner",
+        "runtype": "Manual"
+      },
+      "Paysan": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Farmer",
+        "runtype": "Manual"
+      },
+      "Pêcheur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Fisherman",
+        "runtype": "Manual"
+      },
+      "Sculptemage": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Carvmagus",
+        "runtype": "Manual"
+      },
+      "Sculpteur": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "Carver",
         "runtype": "Manual"
       }
     },
@@ -2709,6 +3221,14 @@
   },
   "local": {
     "02. names": {
+      "Carl Éric": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Carlen Rick",
+        "runtype": "Manual"
+      },
       "Crevasse Perge": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -2731,6 +3251,14 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "Decimandi",
+        "runtype": "Manual"
+      },
+      "Les landes mortes": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Deadlands",
         "runtype": "Manual"
       },
       "Montre en avance": {
@@ -2756,6 +3284,14 @@
         "regex": false,
         "replace": "Showbound Village",
         "runtype": "Manual"
+      },
+      "havre-sac": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "haven bag",
+        "runtype": "Manual"
       }
     },
     "06. expressions": {
@@ -2773,6 +3309,14 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "This guide covers all the",
+        "runtype": "Manual"
+      },
+      "Guide écrit par": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Guide written by",
         "runtype": "Manual"
       },
       "Il est impératif que vous": {
@@ -2831,6 +3375,14 @@
         "replace": "Kill him first",
         "runtype": "Manual"
       },
+      "Vous pouvez maintenant aller": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "You can now go",
+        "runtype": "Manual"
+      },
       "Vérifiez que vous ayez": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -2879,6 +3431,14 @@
         "replace": "group fight",
         "runtype": "Manual"
       },
+      "de la guilde": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "from the guild",
+        "runtype": "Manual"
+      },
       "de tanker vos adversaires": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -2893,6 +3453,14 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "go and search",
+        "runtype": "Manual"
+      },
+      "engagez la conversation avec": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "start a conversation with",
         "runtype": "Manual"
       },
       "entre la destination et": {
@@ -2981,7 +3549,15 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "to begin the quest",
-        "runtype": "Auto"
+        "runtype": "Manual"
+      },
+      "pour lui donner les resources": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to give him the resources",
+        "runtype": "Manual"
       },
       "pour être tranquille un moment": {
         "disabled": false,
@@ -3079,6 +3655,14 @@
         "replace": "every $1 minutes",
         "runtype": "Manual"
       },
+      "vous devez impérativement avoir": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "you must have",
+        "runtype": "Manual"
+      },
       "vous le trouverez aussi en": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -3145,6 +3729,14 @@
         "replace": "After entering the",
         "runtype": "Manual"
       },
+      "Descendez les escaliers": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Go down the stairs",
+        "runtype": "Manual"
+      },
       "Entrez dans la": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -3183,6 +3775,22 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "You must have",
+        "runtype": "Manual"
+      },
+      "NE LANCEZ PAS": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": true,
+        "regex": false,
+        "replace": "don't start",
+        "runtype": "Manual"
+      },
+      "Posséder au moins": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Have more than",
         "runtype": "Manual"
       },
       "Pour commencer": {
@@ -3289,6 +3897,14 @@
         "replace": "other crystals",
         "runtype": "Manual"
       },
+      "des objets nécessaires": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "necessary objects",
+        "runtype": "Manual"
+      },
       "descendez dans": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -3319,6 +3935,14 @@
         "ignoreCase": false,
         "regex": false,
         "replace": ", finaly go",
+        "runtype": "Manual"
+      },
+      "faites de même": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "do the same",
         "runtype": "Manual"
       },
       "il faudra utiliser": {
@@ -3425,6 +4049,14 @@
         "replace": "easily",
         "runtype": "Manual"
       },
+      "posséder au moins": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "have more than",
+        "runtype": "Manual"
+      },
       "pour aller à": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -3481,6 +4113,14 @@
         "replace": "for the work done",
         "runtype": "Manual"
       },
+      "pour lui donner": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "to give him",
+        "runtype": "Manual"
+      },
       "pour mettre à jour": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -3535,6 +4175,14 @@
         "ignoreCase": false,
         "regex": false,
         "replace": "which is obtained",
+        "runtype": "Manual"
+      },
+      "qui sont nécessaires": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "which are necessary",
         "runtype": "Manual"
       },
       "qui vous permet": {
@@ -3609,6 +4257,14 @@
         "replace": "time slot",
         "runtype": "Manual"
       },
+      "téléporteur de gauche": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "teleporter to the left",
+        "runtype": "Manual"
+      },
       "un style de jeu": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -3675,12 +4331,28 @@
         "replace": "After",
         "runtype": "Manual"
       },
+      "Avant": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Before",
+        "runtype": "Manual"
+      },
       "Dorénavant": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": true,
         "regex": false,
         "replace": "Form now on",
+        "runtype": "Manual"
+      },
+      "Evitez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Avoid",
         "runtype": "Manual"
       },
       "Prévoyez": {
@@ -3843,6 +4515,30 @@
         "replace": "one word",
         "runtype": "Manual"
       },
+      "atelier": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "workshop",
+        "runtype": "Manual"
+      },
+      "avant de": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "before",
+        "runtype": "Manual"
+      },
+      "difficile": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "hard",
+        "runtype": "Manual"
+      },
       "dégâts": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -3859,12 +4555,36 @@
         "replace": "hit",
         "runtype": "Manual"
       },
+      "parlez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "talk",
+        "runtype": "Manual"
+      },
       "réapparaisse": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": false,
         "replace": "reappears",
+        "runtype": "Manual"
+      },
+      "vagues": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "waves",
+        "runtype": "Manual"
+      },
+      "Évitez": {
+        "disabled": false,
+        "domain": "ganymede-dofus.com",
+        "ignoreCase": false,
+        "regex": false,
+        "replace": "Avoid",
         "runtype": "Manual"
       }
     },
@@ -4159,62 +4879,6 @@
         "replace": "Private Area",
         "runtype": "Manual"
       },
-      "\\bBrâkmar\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Brakmar",
-        "runtype": "Manual"
-      },
-      "\\bEnutrosor\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Enurado",
-        "runtype": "Manual"
-      },
-      "\\bHavres-Sacs\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Haven Bags",
-        "runtype": "Manual"
-      },
-      "\\bKolizéum\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Kolossium",
-        "runtype": "Manual"
-      },
-      "\\bNimotopia\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Nimaltopia",
-        "runtype": "Manual"
-      },
-      "\\bSaharach\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Ohwymi",
-        "runtype": "Manual"
-      },
-      "\\bXélorium\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Xelorium",
-        "runtype": "Manual"
-      },
       "Île d'Otomaï": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -4313,70 +4977,6 @@
       }
     },
     "jobs": {
-      "\\bAlchimiste\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Alchemist",
-        "runtype": "Manual"
-      },
-      "\\bBestiologue\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Beastologist",
-        "runtype": "Manual"
-      },
-      "\\bBijoutier\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Jeweller",
-        "runtype": "Manual"
-      },
-      "\\bBricoleur\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Handyman",
-        "runtype": "Manual"
-      },
-      "\\bBûcheron\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Lumberjack",
-        "runtype": "Manual"
-      },
-      "\\bChasseur\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Hunter",
-        "runtype": "Manual"
-      },
-      "\\bCordomage\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Shoemagus",
-        "runtype": "Manual"
-      },
-      "\\bCordonnier\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Shoemaker",
-        "runtype": "Manual"
-      },
       "\\bCostumage\\b": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
@@ -4393,28 +4993,12 @@
         "replace": "Craftmagus",
         "runtype": "Manual"
       },
-      "\\bFaçonneur\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Artificer",
-        "runtype": "Manual"
-      },
       "\\bForgemage\\b": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": true,
         "replace": "Smithmagus",
-        "runtype": "Manual"
-      },
-      "\\bForgeron\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Smith",
         "runtype": "Manual"
       },
       "\\bJoaillomage\\b": {
@@ -4431,38 +5015,6 @@
         "ignoreCase": false,
         "regex": true,
         "replace": "Scrollmage",
-        "runtype": "Manual"
-      },
-      "\\bPaysan\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Farmer",
-        "runtype": "Manual"
-      },
-      "\\bPêcheur\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Fisherman",
-        "runtype": "Manual"
-      },
-      "\\bSculptemage\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Carvmagus",
-        "runtype": "Manual"
-      },
-      "\\bSculpteur\\b": {
-        "disabled": false,
-        "domain": "ganymede-dofus.com",
-        "ignoreCase": false,
-        "regex": true,
-        "replace": "Carver",
         "runtype": "Manual"
       },
       "\\bTailleur\\b": {
@@ -4523,12 +5075,12 @@
         "replace": "Mist Army",
         "runtype": "Manual"
       },
-      "Automates des Brigandins": {
+      "Manualmates des Brigandins": {
         "disabled": false,
         "domain": "ganymede-dofus.com",
         "ignoreCase": false,
         "regex": true,
-        "replace": "Imp Automatons",
+        "replace": "Imp Manualmatons",
         "runtype": "Manual"
       },
       "Avis de recherche": {
